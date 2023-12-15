@@ -4,10 +4,7 @@
    :caption: keyestudio docs
 
    README.md
-   docs/keyestudio/index
-
-
-
+   docs/KS4040-KS4041.md
 
 
 
